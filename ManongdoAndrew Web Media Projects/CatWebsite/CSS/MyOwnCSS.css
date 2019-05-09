@@ -1,0 +1,39 @@
+h1 {
+    color: aquamarine
+}
+
+body {
+    width: 700px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    text-decoration-color: blue;
+}
+
+body {
+    text-align: center;
+    font-family: Arial, helvetica, sans-serif
+}
+
+body {
+    border: 8px;
+    background-color: royalblue;
+
+}
+
+a {
+    font-size: 17pt;
+    color: #686143;
+    text-decoration: none
+}
+
+a;
+
+hover {
+    color: #fff;
+}
+
+h1 {
+    border: medium solid#666;
+    box-shadow: :5px 5px 5px rgba(0, 0, 0, 3);
